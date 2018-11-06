@@ -1,0 +1,252 @@
+CFD-DC-CME#sh dial-peer voice summary 
+dial-peer hunt 0
+             AD                                    PRE PASS                OUT 
+TAG    TYPE  MIN  OPER PREFIX    DEST-PATTERN      FER THRU SESS-TARGET    STAT PORT    KEEPALIVE
+1      voip  up   up             797.               0  syst ipv4:100.77.0.94    
+2      voip  up   up             .T                 1  nse  ipv4:202.162.176.57 
+3      voip  up   up             ^0[3467].......$   0  nse  ipv4:202.162.176.57 
+4      voip  up   up             ^02.T              0  nse  ipv4:202.162.176.57 
+5      voip  up   up             ^00.T              0  nse  ipv4:202.162.176.57 
+6      voip  up   up             ^[2-9]......$      0  nse  ipv4:202.162.176.57 
+7      voip  up   up             ^0[58]0.T          0  nse  ipv4:202.162.176.57 
+20001  pots  up   up             1001$              0                           50/0/1
+20002  pots  up   up             9297$              0                           50/0/2
+20003  pots  up   up             9201$              0                           50/0/3
+20004  pots  up   up             9298$              0                           50/0/4
+20005  pots  up   up             099705578$         9                           50/0/4
+20006  pots  up   up             4402$              0                           50/0/5
+20007  pots  up   up             7001$              0                           50/0/6
+20008  pots  up   up             7002$              0                           50/0/7
+20009  pots  up   up             7003$              0                           50/0/8
+20010  pots  up   up             7004$              0                           50/0/9
+20011  pots  up   up             7005$              0                           50/0/10
+20012  pots  up   up             7101$              0                           50/0/11
+20013  pots  up   up             9205$              0                           50/0/12
+20014  pots  up   up             099705563$         9                           50/0/12
+20015  pots  up   up             9308$              0                           50/0/13
+20016  pots  up   down                              0                           50/0/14
+20018  pots  up   up             9219$              0                           50/0/15
+20019  pots  up   up             099091841$         9                           50/0/15
+20020  pots  up   up             7102$              0                           50/0/16
+20021  pots  up   up             9204$              0                           50/0/17
+20022  pots  up   up             099705573$         9                           50/0/17
+20023  pots  up   up             9228$              0                           50/0/18
+20024  pots  up   up             099091842$         9                           50/0/18
+20025  pots  up   up             9217$              0                           50/0/19
+20026  pots  up   up             099705570$         9                           50/0/19
+20027  pots  up   up             7104$              0                           50/0/20
+20028  pots  up   up             9214$              0                           50/0/21
+20029  pots  up   up             9207$              0                           50/0/22
+20030  pots  up   up             9224$              0                           50/0/24
+20031  pots  up   up             9226$              0                           50/0/25
+20032  pots  up   up             9216$              0                           50/0/27
+20033  pots  up   up             9211$              0                           50/0/28
+20034  pots  up   up             099705564$         9                           50/0/28
+20035  pots  up   up             9209$              0                           50/0/29
+20036  pots  up   up             099705577$         9                           50/0/29
+20037  pots  up   up             9215$              0                           50/0/30
+20038  pots  up   up             9227$              0                           50/0/31
+20039  pots  up   up             9292$              0                           50/0/32
+20040  pots  up   up             099705574$         9                           50/0/32
+20041  pots  up   up             9210$              0                           50/0/33
+20042  pots  up   up             099705571$         9                           50/0/33
+20043  pots  up   up             4401$              0                           50/0/34
+20044  pots  up   up             099705584$         9                           50/0/34
+20045  pots  up   up             9296$              0                           50/0/35
+20046  pots  up   up             9222$              0                           50/0/36
+20047  pots  up   up             9392$              0                           50/0/37
+20048  pots  up   up             9239$              0                           50/0/38
+20049  pots  up   up             9208$              0                           50/0/39
+20050  pots  up   up             099091840$         9                           50/0/39
+20051  pots  up   up             4403$              0                           50/0/40
+20052  pots  up   up             4410$              0                           50/0/41
+20053  pots  up   up             049174363$         9                           50/0/41
+20054  pots  up   up             4404$              0                           50/0/42
+20055  pots  up   up             099091843$         9                           50/0/42
+20056  pots  up   up             9202$              0                           50/0/43
+20057  pots  up   up             099705566$         9                           50/0/43
+20058  pots  up   up             5549$              0                           50/0/45
+20059  pots  up   up             099091856$         9                           50/0/45
+20060  pots  up   up             9280$              0                           50/0/46
+20061  pots  up   up             099091858$         9                           50/0/46
+20062  pots  up   up             1140$              0                           50/0/60
+20063  pots  up   up             1141$              0                           50/0/61
+20064  pots  up   up             1142$              0                           50/0/62
+20065  pots  up   up             1143$              0                           50/0/63
+20066  pots  up   up             1144$              0                           50/0/64
+20067  pots  up   up             1145$              0                           50/0/65
+20068  pots  up   up             9207$              0                           50/0/67
+20069  pots  up   up             9220$              0                           50/0/68
+20070  pots  up   up             099705575$         9                           50/0/68
+20071  pots  up   up             9206$              0                           50/0/69
+20072  pots  up   up             039770077$         9                           50/0/69
+20073  pots  up   up             9201$              1                           50/0/70
+20074  pots  up   up             9201$              2                           50/0/71
+20075  pots  up   up             9201$              3                           50/0/72
+20076  pots  up   up             9201$              4                           50/0/73
+20077  pots  up   up             7970....           0                           50/0/80
+20078  pots  up   up             7971....           0                           50/0/82
+20079  pots  up   up             9299$              0                           50/0/88
+20082  pots  up   up             A7100A0000         0                           50/0/11
+20083  pots  up   up             7100               0                           50/0/0
+20084  pots  down down           A7100A0001         0                           50/0/16
+20085  pots  up   up             A7100A0002         0                           50/0/20
+20086  pots  up   up             A7100A0003         0                           50/0/29
+20087  pots  up   up             A9231A0300         0                           50/0/25
+20088  pots  up   up             9231               0                           50/0/0
+20089  pots  up   up             A9200A0400         0                           50/0/60
+20090  pots  up   up             9200               0                           50/0/0
+20091  pots  down down           A9200A0401         0                           50/0/61
+20092  pots  down down           A9200A0402         0                           50/0/62
+20093  pots  down down           A9200A0403         0                           50/0/63
+20094  pots  down down           A9200A0404         0                           50/0/64
+20095  pots  down down           A9200A0405         0                           50/0/65
+20096  pots  up   up             A049174362A0600    0                           50/0/60
+20097  pots  up   up             049174362          0                           50/0/0
+20098  pots  down down           A049174362A0601    0                           50/0/61
+20099  pots  down down           A049174362A0602    0                           50/0/62
+20100  pots  down down           A049174362A0603    0                           50/0/63
+20101  pots  down down           A049174362A0604    0                           50/0/64
+20102  pots  down down           A049174362A0605    0                           50/0/65
+20111  pots  up   up             3800$              0                           50/0/101
+20112  pots  up   up             3801$              0                           50/0/102
+20113  pots  up   up             039770081$         9                           50/0/102
+20114  pots  up   down                              0                           50/0/104
+20116  pots  up   up             3087$              0                           50/0/105
+20117  pots  up   up             039770087$         9                           50/0/105
+20118  pots  up   up             3082$              0                           50/0/116
+20119  pots  up   up             039770082$         9                           50/0/116
+20120  pots  up   up             3022$              0                           50/0/122
+20121  pots  up   up             3024$              0                           50/0/124
+20122  pots  up   up             3025$              0                           50/0/125
+20123  pots  up   up             5582$              0                           50/0/202
+20124  pots  up   up             099705582$         9                           50/0/202
+20125  pots  up   up             5583$              0                           50/0/203
+20126  pots  up   up             099705583$         9                           50/0/203
+20127  pots  up   up             5584$              0                           50/0/204
+20128  pots  up   up             5585$              0                           50/0/205
+20129  pots  up   up             099705585$         9                           50/0/205
+20130  pots  up   up             5586$              0                           50/0/206
+20131  pots  up   up             099705586$         9                           50/0/206
+20132  pots  up   up             5587$              0                           50/0/207
+20133  pots  up   up             099705587$         9                           50/0/207
+20134  pots  up   up             5574$              0                           50/0/208
+20135  pots  up   up             5589$              0                           50/0/209
+20136  pots  up   up             099261018$         9                           50/0/209
+20137  pots  up   up             5580$              0                           50/0/210
+20138  pots  up   up             099705580$         9                           50/0/210
+20139  pots  up   up             5536$              0                           50/0/212
+20140  pots  up   up             099261086$         9                           50/0/212
+20141  pots  up   up             5539$              0                           50/0/213
+20142  pots  up   up             099261016$         9                           50/0/213
+20143  pots  up   up             7121$              0                           50/0/217
+20144  pots  up   up             7122$              0                           50/0/218
+20145  pots  up   up             5519$              0                           50/0/219
+20146  pots  up   up             099705568$         9                           50/0/219
+20147  pots  up   up             5532$              0                           50/0/222
+20148  pots  up   up             099261082$         9                           50/0/222
+20149  pots  up   up             5530$              0                           50/0/230
+20150  pots  up   up             099261081$         9                           50/0/230
+20151  pots  up   up             5548$              0                           50/0/238
+20152  pots  up   up             099261017$         9                           50/0/238
+20153  pots  up   up             5510$              0                           50/0/250
+20154  pots  up   up             5511$              0                           50/0/251
+20155  pots  up   up             5512$              0                           50/0/252
+20156  pots  up   up             5513$              0                           50/0/253
+20157  pots  up   up             5514$              0                           50/0/254
+20158  pots  up   up             5515$              0                           50/0/255
+20159  pots  up   up             5516$              0                           50/0/256
+20160  pots  up   up             099705583$         0                           50/0/257
+20161  pots  up   up             5562$              0                           50/0/259
+20162  pots  up   up             5570$              0                           50/0/260
+20163  pots  up   up             099705570$         9                           50/0/260
+20164  pots  up   up             5520$              0                           50/0/261
+20165  pots  up   up             099283490$         9                           50/0/261
+20166  pots  up   up             5522$              0                           50/0/262
+20167  pots  up   up             5523$              0                           50/0/263
+20168  pots  up   up             5528$              0                           50/0/264
+20169  pots  up   up             099261080$         9                           50/0/264
+20170  pots  up   up             5546$              0                           50/0/265
+20171  pots  up   up             099091859$         9                           50/0/265
+20172  pots  up   up             5547$              0                           50/0/266
+20173  pots  up   up             099091857$         9                           50/0/266
+20174  pots  up   up             5538$              0                           50/0/269
+20175  pots  up   up             5533$              0                           50/0/271
+20176  pots  up   up             099261083$         9                           50/0/271
+20177  pots  up   up             5569$              0                           50/0/272
+20178  pots  up   up             099705569$         9                           50/0/272
+20179  pots  up   up             5699$              0                           50/0/283
+20180  pots  up   up             5540$              0                           50/0/284
+20181  pots  up   up             099091850$         9                           50/0/284
+20182  pots  up   up             5541$              0                           50/0/285
+20183  pots  up   up             099091851$         9                           50/0/285
+20184  pots  up   up             5542$              0                           50/0/286
+20185  pots  up   up             099091852$         9                           50/0/286
+20186  pots  up   up             5543$              0                           50/0/287
+20187  pots  up   up             099091853$         9                           50/0/287
+20188  pots  up   up             5544$              0                           50/0/288
+20189  pots  up   up             099091854$         9                           50/0/288
+20190  pots  up   up             5545$              0                           50/0/289
+20191  pots  up   up             099091855$         9                           50/0/289
+20192  pots  up   up             5521$              0                           50/0/291
+20193  pots  up   up             099261010$         9                           50/0/291
+20194  pots  up   up             5522$              0                           50/0/292
+20195  pots  up   up             5561$              0                           50/0/293
+20196  pots  up   up             099705561$         9                           50/0/293
+20197  pots  up   up             5524$              0                           50/0/295
+20198  pots  up   up             099261011$         9                           50/0/295
+20199  pots  up   up             5525$              0                           50/0/296
+20200  pots  up   up             099261012$         9                           50/0/296
+20201  pots  up   up             5526$              0                           50/0/297
+20202  pots  up   up             099261013$         9                           50/0/297
+20203  pots  up   up             5527$              0                           50/0/298
+20204  pots  up   up             099261014$         9                           50/0/298
+20206  pots  up   up             5529$              0                           50/0/200
+20207  pots  up   up             099261015$         9                           50/0/200
+20208  pots  up   up             3806$              0                           50/0/103
+20209  pots  up   up             039770085$         9                           50/0/103
+20215  pots  down down           A7123A2200         0                           50/0/296
+20216  pots  up   up             7123               0                           50/0/0
+20217  pots  down down           A7123A2201         0                           50/0/230
+20218  pots  up   up             A5597A2300         0                           50/0/203
+20219  pots  up   up             5597               0                           50/0/0
+20220  pots  up   up             A5597A2301         0                           50/0/200
+20221  pots  up   up             A5597A2302         0                           50/0/295
+20222  pots  up   up             A5598A2400         0                           50/0/203
+20223  pots  up   up             5598               0                           50/0/0
+20224  pots  up   up             A5594A2600         0                           50/0/200
+20225  pots  up   up             5594               0                           50/0/0
+20226  pots  up   up             A5594A2601         0                           50/0/203
+20227  pots  up   up             5531$              0                           50/0/242
+20228  pots  up   up             5535$              0                           50/0/246
+20229  pots  up   up             099261085$         9                           50/0/246
+20230  pots  up   up             5572$              0                           50/0/240
+21474- voip  up   up             099705569          0  syst loopback:rtp        
+83647                                                                          
+21474- voip  up   up             5569               0  syst loopback:rtp        
+83646                                                                          
+21474- voip  up   up             5599               0  syst loopback:rtp        
+83645                                                                          
+21474- voip  up   up             5536               0  syst loopback:rtp        
+83644                                                                          
+21474- voip  up   up             5590               0  syst loopback:rtp        
+83643                                                                          
+777    voip  up   up             8290911            0  nse  ipv4:202.162.176.57 
+21474- voip  up   up             9203               0  syst loopback:rtp        
+83642                                                                          
+77777- voip  up   up             777777             0  nse  ipv4:100.64.0.214   
+7                                                                              
+20237  pots  up   up             A8008A0700         0                           50/0/13
+20238  pots  up   up             8008               0                           50/0/0
+20239  pots  up   up             A8008A0701         0                           50/0/25
+20240  pots  up   up             A8008A0702         0                           50/0/68
+20241  pots  up   up             A8008A0703         0                           50/0/29
+20242  pots  up   up             A8008A0704         0                           50/0/15
+20243  pots  up   up             A039770080A1700    0                           50/0/101
+20244  pots  up   up             039770080          0                           50/0/0
+20245  pots  up   up             A039770080A1701    0                           50/0/105
+20246  pots  down down           A039770080A1702    0                           50/0/103
+40003  voip  up   up             3803               0  syst ipv4:192.168.40.172:
+40001  voip  up   up             9218               0  syst ipv4:10.128.4.16:506
+40002  voip  up   up             5534               0  syst ipv4:192.168.85.62:5
+CFD-DC-CME#
