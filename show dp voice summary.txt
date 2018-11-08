@@ -251,3 +251,6 @@ TAG    TYPE  MIN  OPER PREFIX    DEST-PATTERN      FER THRU SESS-TARGET    STAT 
 40002  voip  up   up             5534               0  syst ipv4:192.168.85.62:5
 CFD-DC-CME#
 This is a test line 20171108
+
+
+The second test lines after a few blanks. - Larry
